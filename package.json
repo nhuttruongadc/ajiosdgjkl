@@ -1,0 +1,8 @@
+{
+  "name": "ba-khi-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BÁ KHÍ AI - chatbot dùng Google Gemini qua máy chủ trung gian",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
