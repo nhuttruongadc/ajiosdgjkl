@@ -1,0 +1,6 @@
+CACH TAO APK (mien phi, bang GitHub):
+1. Tao tai khoan GitHub, tao repository moi (Public hoac Private).
+2. Upload TOAN BO file/thu muc trong zip nay len repo (nho thu muc .github, www, package.json, capacitor.config.json).
+3. Vao tab Actions > "Build APK" > Run workflow (hoac no tu chay sau khi upload).
+4. Doi khoang 5-10 phut, mo lan chay thanh cong > muc Artifacts > tai "BaKhiAI-apk".
+5. Giai nen, copy app-debug.apk vao dien thoai, cai dat (cho phep cai tu nguon khong ro).

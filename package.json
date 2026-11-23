@@ -1,8 +1,1 @@
-{
-  "name": "ba-khi-ai",
-  "version": "1.0.0",
-  "private": true,
-  "description": "BÁ KHÍ AI - chatbot dùng Google Gemini qua máy chủ trung gian",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
+{"name":"ba-khi-ai","version":"1.0.0","private":true,"dependencies":{"@capacitor/android":"^6.1.0","@capacitor/core":"^6.1.0"},"devDependencies":{"@capacitor/cli":"^6.1.0"}}
